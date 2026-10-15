@@ -36,3 +36,5 @@ The original projects were written in Java during the TechnoHacks EduTech intern
 Update `src/main.jsx` to edit profile content, contact details, project descriptions and resume-guide answers. Replace `public/assets/Vignesh-Kumar-Resume.pdf` to update the download. The portrait is displayed using a CSS crop of the supplied resume image, without altering the person's appearance beyond monochrome styling.
 
 Google Fonts supplies Inter; system sans-serif fonts are used as a fallback.
+
+Technology logo assets are from [Devicon](https://github.com/devicons/devicon), with the accompanying license in `public/assets/devicon-LICENSE.txt`. Java and Python marks identify the listed technologies.
