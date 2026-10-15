@@ -27,6 +27,7 @@ Vite emits the production website into `dist/`.
 - Recruiter snapshot and one-page PDF resume download.
 - Interactive resume guide with local, resume-based responses. **This guide does not call a live AI model.** Messages are not stored.
 - Keyboard-accessible dialogs, reduced-motion support, mobile navigation and a persistent theme preference.
+- Suggested follow-up questions and direct email, phone and LinkedIn contact links in the portfolio guide.
 
 The original projects were written in Java during the TechnoHacks EduTech internship in April 2024. These demos are React recreations, not the original Java source code. Portfolio facts come from the supplied resumes; no unverified employment, projects or technology experience has been added.
 
@@ -34,4 +35,4 @@ The original projects were written in Java during the TechnoHacks EduTech intern
 
 Update `src/main.jsx` to edit profile content, contact details, project descriptions and resume-guide answers. Replace `public/assets/Vignesh-Kumar-Resume.pdf` to update the download. The portrait is displayed using a CSS crop of the supplied resume image, without altering the person's appearance beyond monochrome styling.
 
-Google Fonts supplies DM Sans and Space Grotesk; system sans-serif fonts are used as a fallback.
+Google Fonts supplies Inter; system sans-serif fonts are used as a fallback.
